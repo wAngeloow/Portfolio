@@ -18,5 +18,5 @@
 <br>
 
 <div align="center">
-  <a href="https://wangeloow.github.io/portfolio/" target="_blank"">Visite meu Portfólio!</a>
+  <a href="https://wangeloow.github.io/Portfolio/" target="_blank"">Visite meu Portfólio!</a>
 </div>
