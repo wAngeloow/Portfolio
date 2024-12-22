@@ -11,6 +11,7 @@
     <li>[ ] Puxar arquivos do GitHub para meu VSCode</li>
     <li>[ ] Escrever código no VSCode</li>
     <li>[ ] Enviar para o GitHub</li>
+    <li>[ ] Add no currículo, LinkedIn e no perfil do GitHub</li>
   </ul>
 </div>
 
