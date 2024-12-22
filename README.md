@@ -8,6 +8,7 @@
   <p>Etapas:</p>
   <ul>
     <li>[ ] Desenhar design no Figma</li>
+    <li>[ ] Puxar arquivos do GitHub para meu VSCode</li>
     <li>[ ] Escrever código no VSCode</li>
     <li>[ ] Enviar para o GitHub</li>
   </ul>
@@ -16,5 +17,5 @@
 <br>
 
 <div align="center">
-  <a href="https://wangeloow.github.io/Burguerito/" target="_blank"">Visite meu Portfólio!</a>
+  <a href="https://wangeloow.github.io/portfolio/" target="_blank"">Visite meu Portfólio!</a>
 </div>
